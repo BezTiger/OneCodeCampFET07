@@ -1,0 +1,22 @@
+**Make a directory/folder
+mkdir "directory-name"
+mkdir test
+**Remove a directory
+rmdir [directory-name]
+**find current path
+pwd
+**list all files and folders
+ls
+** clear screen
+clear
+**change to different folder
+cd [folder name]
+
+**Go back one directory
+ cd ..
+
+**create file
+ touch [filename.extension]
+
+ **delete file
+ rm file.txt

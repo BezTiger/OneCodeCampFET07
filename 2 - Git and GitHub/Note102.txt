@@ -1,0 +1,18 @@
+** to check git version
+git --version
+
+Configure Git, return nothing means success
+Command: git config --global user.name "username"
+Command: git config --global user.email "email"
+
+Initialize an empty repository
+git init
+
+Check for the status of files
+Command: git status
+
+Add files to the staging area
+Command: git add .
+
+Create a commit
+Command: git commit -m "This is the description."
