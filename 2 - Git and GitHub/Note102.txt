@@ -16,3 +16,15 @@ Command: git add .
 
 Create a commit
 Command: git commit -m "This is the description."
+
+Branching
+
+List out all of the branches
+Command: git branch -a
+
+Create a branch
+Command: git branch [branch-name]
+
+Switch to a different branch
+Command: git switch [branch-name]
+git merge [branch-name]s
